@@ -485,7 +485,222 @@
         "Mountain Dew",
         "Sprite"
       ]
+    },
+    {
+      "id": 17,
+      "text": "Name Something In A Regular House That Might Be Missing In A Bachelor Pad.",
+      "options": [
+        "Furniture",
+        "Food",
+        "Decoration",
+        "Family",
+        "Appliances",
+        "Cleanliness",
+        "Kitchen Utensils",
+        "Books",
+        "Plants",
+        "Rugs",
+        "Curtains",
+        "Bed Linen",
+        "Towels",
+        "Pet Supplies",
+        "Closet Organizers",
+        "Bathroom Accessories",
+        "Picture Frames",
+        "Laundry Basket",
+        "Alarm Clock",
+        "Waste Bins",
+        "Desk",
+        "Television",
+        "Home Office"
+      ],
+      "answer": [
+        "Furniture",
+        "Food",
+        "Decoration",
+        "Family",
+        "Appliances"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "What Accent Might An American Pretend To Have In Order To Sound Sexier?",
+      "options": [
+        "French",
+        "British",
+        "Italian",
+        "Spanish",
+        "Australian",
+        "German",
+        "Russian",
+        "Irish",
+        "Scottish",
+        "Japanese",
+        "Portuguese",
+        "Swedish",
+        "Dutch",
+        "Chinese",
+        "Arabic",
+        "Greek",
+        "Korean",
+        "Hebrew",
+        "Turkish",
+        "Norwegian",
+        "Danish",
+        "Polish",
+        "Finnish"
+      ],
+      "answer": [
+        "French",
+        "British",
+        "Italian",
+        "Spanish",
+        "Australian"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Tell Me Something That Would Get You Thrown Out Of Most Bars.",
+      "options": [
+        "Getting In A Fight",
+        "Drinking Too Much",
+        "Not Paying",
+        "Stripping",
+        "Being Underage",
+        "Harassing Others",
+        "Vandalism",
+        "Smoking Indoors",
+        "Selling Illegal Items",
+        "Using Fake ID",
+        "Bringing Outside Drinks",
+        "Loudness",
+        "Loitering",
+        "Drunkenness",
+        "Stealing",
+        "Sleeping",
+        "Disorderly Conduct",
+        "Refusing To Leave",
+        "Failing To Tip",
+        "Sneaking In Pets",
+        "Using Drugs",
+        "Fireworks Inside",
+        "Flashing"
+      ],
+      "answer": [
+        "Getting In A Fight",
+        "Drinking Too Much",
+        "Not Paying",
+        "Stripping",
+        "Being Underage"
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Name A US City That Probably Has A Lot Of Single People.",
+      "options": [
+        "New York",
+        "Los Angeles",
+        "San Francisco",
+        "Las Vegas",
+        "Boston",
+        "Chicago",
+        "Miami",
+        "Seattle",
+        "Dallas",
+        "Atlanta",
+        "Philadelphia",
+        "Denver",
+        "Austin",
+        "Washington D.C.",
+        "San Diego",
+        "Houston",
+        "Phoenix",
+        "Minneapolis",
+        "Portland",
+        "Orlando",
+        "Nashville",
+        "San Antonio",
+        "New Orleans"
+      ],
+      "answer": [
+        "New York",
+        "Los Angeles",
+        "San Francisco",
+        "Las Vegas",
+        "Boston"
+      ]
+    },
+    {
+      "id": 21,
+      "text": "Name Something That’s Hard To Do On A Particularly Hot Summer Day.",
+      "options": [
+        "Run",
+        "Go In To Work",
+        "Yard Work",
+        "Sleep",
+        "Breathe",
+        "Exercise",
+        "Cook",
+        "Eat",
+        "Think",
+        "Drive",
+        "Stay Cool",
+        "Wear Clothes",
+        "Stay Hydrated",
+        "Keep Food Fresh",
+        "Maintain Makeup",
+        "Keep Pets Comfortable",
+        "Use Electronics Outside",
+        "Stay Indoors",
+        "Read",
+        "Use Public Transportation",
+        "Go Shopping",
+        "Attend Outdoor Events",
+        "Do Laundry"
+      ],
+      "answer": [
+        "Run",
+        "Go In To Work",
+        "Yard Work",
+        "Sleep",
+        "Breathe"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Match these more obscure song lyrics to the correct word that completes them: 1) 'A singer in a smoky room, a smell of wine and cheap...' 2) 'And when I touch you I feel happy, inside. It's such a feeling that my...' 3) 'Buddy you're a boy make a big noise playing in the street gonna be a big man...' 4) 'Hands, touching hands, reaching out, touching me, touching...' 5) 'Cause baby, youre a firework Come on, show em what youre...'",
+      "options": [
+        "Perfume",
+        "Love",
+        "Someday",
+        "You",
+        "Worth",
+        "Heart",
+        "Stars",
+        "Dreams",
+        "World",
+        "Night",
+        "Life",
+        "Soul",
+        "Time",
+        "Feeling",
+        "Light",
+        "Sky",
+        "Tomorrow",
+        "Perfume",
+        "Music",
+        "Someday"
+      ],
+      "answer": [
+        "Perfume",
+        "Love",
+        "Someday",
+        "You",
+        "Worth"
+      ]
     }
+    
+    
     
   ]
 }
