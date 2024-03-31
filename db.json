@@ -698,6 +698,39 @@
         "You",
         "Worth"
       ]
+    },
+    {
+      "id": 24,
+      "text": "Match these more obscure song lyrics to the correct word that completes them: 1) 'Tonight I'm gonna have myself a real good time I feel...' 2) 'Near, far, wherever you are I believe that the heart does go...' 3) 'Romeo, take me somewhere we can be alone I'll be waiting, all there's left to do is...' 4) 'We're burning down the highway skyline On the back of a hurricane that started...' 5) 'She said, It's not now or never Wait ten years, we'll be ...'",
+      "options": [
+        "Alive",
+        "On",
+        "Run",
+        "Together",
+        "Whatever",
+        "Forever",
+        "Spinning",
+        "Blowing",
+        "Working",
+        "Life",
+        "Talk",
+        "Soul",
+        "Walk",
+        "Hide",
+        "Afraid",
+        "Forever",
+        "Pain",
+        "Fast",
+        "Away",
+        "Boom"
+      ],
+      "answer": [
+        "Alive",
+        "On",
+        "Run",
+        "Turning",
+        "Together"
+      ]
     }
     
     
