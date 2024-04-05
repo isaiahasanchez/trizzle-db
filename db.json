@@ -1,7 +1,7 @@
 {
   "questions": [
     {
-      "id": 2,
+      "id": 1,
       "text": "Who are the top 5 home run leaders for the Dodgers?",
       "options": [
         "Duke Snider",
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "text": "What are the 5 largest oceans in the world by area?",
       "options": [
         "Pacific Ocean",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "text": "Which 5 countries have the largest populations?",
       "options": [
         "China",
@@ -103,7 +103,7 @@
       "answer": ["China", "India", "United States", "Indonesia", "Pakistan"]
     },
     {
-      "id": 5,
+      "id": 4,
       "text": "Name the first 5 presidents of the United States.",
       "options": [
         "George Washington",
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "text": "Which 5 elements have the highest atomic numbers?",
       "options": [
         "Oganesson",
@@ -175,7 +175,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "text": "Who are the top Dodgers home run leaders since 2010?",
       "options": [
         "Max Muncy",
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "text": "Name the planets in our solar system from closest to the sun.",
       "options": [
         "Mercury",
@@ -241,7 +241,7 @@
       "answer": ["Mercury", "Venus", "Earth", "Mars", "Jupiter"]
     },
     {
-      "id": 9,
+      "id": 8,
       "text": "Besides McDonald's, which fast food burger chains represent the largest in systemwide sales?",
       "options": [
         "Wendy's",
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "text": "Which are the top cities in the U.S. by population that start with the letter 'S'?",
       "options": [
         "San Antonio",
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 10,
       "text": "Which original streaming program had the most minutes viewed according to Nielsen's 2022 rankings?",
       "options": [
         "Stranger Things",
@@ -349,7 +349,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "text": "Which of these home video game consoles have the highest estimated lifetime unit sales as of December 31, 2023?",
       "options": [
         "PlayStation 2",
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "id": 13,
+      "id": 12,
       "text": "Match these cereal slogans to their brands: 1) The taste you can see 2) Snap! Crackle! Pop! 3) They're magically delicious. 4) Kid-tested. Mother-approved.! 5) The breakfast of champions.",
       "options": [
         "Kellogg's Frosted Flakes",
@@ -421,7 +421,7 @@
       ]
     },
     {
-      "id": 15,
+      "id": 13,
       "text": "Match these animal facts to the corresponding animals: 1) The only bird that can fly backward. 2) Known for its eight arms and high intelligence. 3) Has a distinctive black and white coat used for camouflage in the snow. 4) The largest land animal. 5) Can sleep for up to 22 hours a day, living most of its life in trees.",
       "options": [
         "Hummingbird",
@@ -451,7 +451,7 @@
       "answer": ["Hummingbird", "Octopus", "Polar Bear", "Elephant", "Koala"]
     },
     {
-      "id": 16,
+      "id": 14,
       "text": "Match these popular sodas to their primary flavor or distinctive characteristic: 1) Known for its classic cola taste and red logo. 2) Famous for its unique blend of 23 flavors. 3) Has the slogan 'dont you wanta'. 4) Advertised for its extreme caffeine content and green color. 5) Marketed as the perfect lemon-lime soda.",
       "options": [
         "Coca-Cola",
@@ -487,7 +487,7 @@
       ]
     },
     {
-      "id": 17,
+      "id": 15,
       "text": "Name Something In A Regular House That Might Be Missing In A Bachelor Pad.",
       "options": [
         "Furniture",
@@ -523,7 +523,7 @@
       ]
     },
     {
-      "id": 18,
+      "id": 16,
       "text": "What Accent Might An American Pretend To Have In Order To Sound Sexier?",
       "options": [
         "French",
@@ -559,7 +559,7 @@
       ]
     },
     {
-      "id": 19,
+      "id": 17,
       "text": "Tell Me Something That Would Get You Thrown Out Of Most Bars.",
       "options": [
         "Getting In A Fight",
@@ -595,7 +595,7 @@
       ]
     },
     {
-      "id": 20,
+      "id": 18,
       "text": "Name A US City That Probably Has A Lot Of Single People.",
       "options": [
         "New York",
@@ -631,8 +631,8 @@
       ]
     },
     {
-      "id": 21,
-      "text": "Name Something That’s Hard To Do On A Particularly Hot Summer Day.",
+      "id": 19,
+      "text": "Name Something That's Hard To Do On A Particularly Hot Summer Day.",
       "options": [
         "Run",
         "Go In To Work",
@@ -667,7 +667,7 @@
       ]
     },
     {
-      "id": 23,
+      "id": 20,
       "text": "Match these more obscure song lyrics to the correct word that completes them: 1) 'A singer in a smoky room, a smell of wine and cheap...' 2) 'And when I touch you I feel happy, inside. It's such a feeling that my...' 3) 'Buddy you're a boy make a big noise playing in the street gonna be a big man...' 4) 'Hands, touching hands, reaching out, touching me, touching...' 5) 'Cause baby, youre a firework Come on, show em what youre...'",
       "options": [
         "Perfume",
@@ -703,7 +703,7 @@
       ]
     },
     {
-      "id": 24,
+      "id": 21,
       "text": "Match these more obscure song lyrics to the correct word that completes them: 1) 'Tonight I'm gonna have myself a real good time I feel...' 2) 'Near, far, wherever you are I believe that the heart does go...' 3) 'Romeo, take me somewhere we can be alone I'll be waiting, all there's left to do is...' 4) 'We're burning down the highway skyline On the back of a hurricane that started...' 5) 'She said, It's not now or never Wait ten years, we'll be ...'",
       "options": [
         "Alive",
@@ -737,7 +737,401 @@
         "Turning",
         "Together"
       ]
+    },
+    {
+      "id": 22,
+      "text": "Match these song lyrics to the correct word that completes them: 1) 'I'm so gifted at findin' what I don't like the...' 2) 'I'm living life right now, man, and this what I'mma do 'til it's...' 3) 'I'm at the preacher's door My knees gettin' weak and my gun might...' 4) 'Don't go through the front door, It's lowkey at the night...' 5) 'Catch me at the X with OG at a Yankee game Shit, I made the Yankee hat more famous than a Yankee...' ",
+      "options": [
+        "Most",
+        "Over",
+        "Blow",
+        "Show",
+        "Can",
+        "Lost",
+        "River",
+        "Snow",
+        "Grow",
+        "Know",
+        "Throw",
+        "Close",
+        "Fan",
+        "Man",
+        "Plan",
+        "Stand",
+        "Love",
+        "Run",
+        "Hide",
+        "Fight",
+        "Dream",
+        "Laugh",
+        "Cry"
+      ],
+      "answer": [
+        "Most",
+        "Over",
+        "Blow",
+        "Show",
+        "Can"
+      ]
+    },
+    {
+      "id": 23,
+      "text": "Match these song lyrics to the correct word that completes them: 1) 'Get to the club in my taxi cab Everybody's looking at me...' 2) 'And truth be told, I'm lyin', When you see my face, hope it gives you...' 3) 'Tonight's the night (hey), let's live it up (let's live it up) I got my money (I'm paid), let's spend it...' 4) 'Staring blankly ahead Just making my way Making a way Through the...' 5) 'Oh, I've been shakin' I love it when you go crazy You take all my...' ",
+      "options": [
+        "Now",
+        "Hell",
+        "Up",
+        "Crowd",
+        "Inhibitions",
+        "Wow",
+        "Tonight",
+        "Down",
+        "All",
+        "Fear",
+        "Right",
+        "Dance",
+        "Back",
+        "Love",
+        "Joy",
+        "Freedom",
+        "World",
+        "Town",
+        "Crazy",
+        "Night",
+        "Fate",
+        "Worries",
+        "Rage"
+      ],
+      "answer": [
+        "Now",
+        "Hell",
+        "Up",
+        "Crowd",
+        "Inhibitions"
+      ]
+    },{
+      "id": 24,
+      "text": "Rank these 3-D animated Disney movies from highest to lowest grossing worldwide:",
+      "options": [
+        "Frozen II",
+        "Frozen",
+        "The Incredibles 2",
+        "Toy Story 4",
+        "Toy Story 3",
+        "Zootopia",
+        "Big Hero 6",
+        "Finding Dory",
+        "Moana",
+        "Ralph Breaks the Internet",
+        "Tangled",
+        "Coco",
+        "Inside Out",
+        "Monsters University",
+        "Brave",
+        "Cars 3",
+        "The Lion King",
+        "Wall-E",
+        "Ratatouille",
+        "Finding Nemo",
+        "Cars 2",
+        "Cars",
+        "Up"
+      ],
+      "answer": [
+        "Frozen II",
+        "Frozen",
+        "The Incredibles 2",
+        "Toy Story 4",
+        "Toy Story 3"
+      ]
+    },
+    {
+      "id": 25,
+      "text": "Rank the top five fast food chains in the world by the number of locations as of 2024:",
+      "options": [
+        "Subway",
+        "McDonald's",
+        "Starbucks",
+        "KFC",
+        "Burger King",
+        "Domino's",
+        "Pizza Hut",
+        "Dunkin'",
+        "Taco Bell",
+        "Hunt Brothers Pizza",
+        "Baskin Robbins",
+        "Carl's Jr.",
+        "Orange Julius",
+        "Papa John's Pizza",
+        "Tim Hortons",
+        "Dairy Queen",
+        "Little Caesars",
+        "Wendy's",
+        "Wallace",
+        "Costa",
+        "7-Eleven",
+        "Chipotle",
+        "Whataburger"
+      ],
+      "answer": [
+        "Subway",
+        "McDonald's",
+        "Starbucks",
+        "KFC",
+        "Burger King"
+      ]
+    },
+    {
+      "id": 26,
+      "text": "As of 2024, rank the top five free non-game apps in the iPhone App Store by download numbers:",
+      "options": [
+        "Instagram",
+        "TikTok",
+        "Facebook",
+        "WhatsApp",
+        "CapCut",
+        "Snapchat",
+        "Google Maps",
+        "YouTube",
+        "Twitter",
+        "Netflix",
+        "Spotify",
+        "Uber",
+        "Gmail",
+        "Zoom",
+        "Microsoft Teams",
+        "Telegram",
+        "Pinterest",
+        "LinkedIn",
+        "Duolingo",
+        "Reddit",
+        "WeChat",
+        "Viber",
+        "Skype"
+      ],
+      "answer": [
+        "Instagram",
+        "TikTok",
+        "Facebook",
+        "WhatsApp",
+        "CapCut"
+      ]
+    },{
+      "id": 27,
+      "text": "Rank the top five most streamed artists on Spotify in 2023:",
+      "options": [
+        "Taylor Swift",
+        "Bad Bunny",
+        "The Weeknd",
+        "Drake",
+        "Peso Pluma",
+        "Feid",
+        "Travis Scott",
+        "SZA",
+        "Karol G",
+        "Lana Del Rey",
+        "Billie Eilish",
+        "Harry Styles",
+        "Beyoncé",
+        "Ed Sheeran",
+        "Ariana Grande",
+        "Justin Bieber",
+        "Doja Cat",
+        "Dua Lipa",
+        "Post Malone",
+        "Eminem",
+        "Shakira",
+        "Lady Gaga",
+        "Bruno Mars"
+      ],
+      "answer": [
+        "Taylor Swift",
+        "Bad Bunny",
+        "The Weeknd",
+        "Drake",
+        "Peso Pluma"
+      ]
+    },{
+      "id": 30,
+      "text": "Rank the top five most streamed songs on Spotify in 2023:",
+      "options": [
+        "Flowers",
+        "Kill Bill",
+        "As It Was",
+        "Seven (feat. Latto)",
+        "Ella Baila Sola",
+        "Cruel Summer",
+        "Creepin'",
+        "Calm Down",
+        "Shakira: Bzrp Music Sessions, Vol. 53",
+        "Anti-Hero",
+        "Vampire",
+        "TQG",
+        "Paint the Town Red",
+        "Stay",
+        "Heat Waves",
+        "INDUSTRY BABY",
+        "Save Your Tears",
+        "Bad Habits",
+        "Peaches",
+        "drivers license",
+        "Butter",
+        "Easy On Me",
+        "Happier Than Ever"
+      ],
+      "answer": [
+        "Flowers",
+        "Kill Bill",
+        "As It Was",
+        "Seven (feat. Latto)",
+        "Ella Baila Sola"
+      ]
+    },
+    {
+      "id": 31,
+      "text": "Who are the top five artists with the most streamed albums on Spotify in 2023, counting each artist only once regardless of multiple top albums?",
+      "options": [
+        "The Weeknd",
+        "Bad Bunny",
+        "Ed Sheeran",
+        "Post Malone",
+        "Dua Lipa",
+        "Olivia Rodrigo",
+        "Billie Eilish",
+        "XXXTENTACION",
+        "Justin Bieber",
+        "Drake",
+        "Taylor Swift",
+        "Harry Styles",
+        "Arctic Monkeys",
+        "Juice WRLD",
+        "Travis Scott",
+        "Sam Smith",
+        "Lewis Capaldi",
+        "Major Lazer",
+        "Bruno Mars",
+        "Imagine Dragons",
+        "Ariana Grande",
+        "Shawn Mendes",
+        "Kanye West"
+      ],
+      "answer": [
+        "The Weeknd",
+        "Bad Bunny",
+        "Ed Sheeran",
+        "Post Malone",
+        "Dua Lipa"
+      ]
+    },{
+      "id": 32,
+      "text": "What are the top five most streamed albums of all time on Spotify?",
+      "options": [
+        "The Highlights-The Weeknd",
+        "Un Verano Sin Ti-Bad Bunny",
+        "÷-Ed Sheeran",
+        "Starboy-The Weeknd",
+        "Hollywood's Bleeding-Post Malone",
+        "Future Nostalgia-Dua Lipa",
+        "?-XXXTENTACION",
+        "x-Ed Sheeran",
+        "Purpose-Justin Bieber",
+        "Scorpion-Drake",
+        "Lover-Taylor Swift",
+        "Views-Drake",
+        "Fine Line-Harry Styles",
+        "AM-Arctic Monkeys",
+        "Stoney-Post Malone",
+        "Justice-Justin Bieber",
+        "1989-Taylor Swift",
+        "ASTROWORLD-Travis Scott",
+        "In The Lonely Hour-Sam Smith",
+        "Doo-Wops & Hooligans-Bruno Mars",
+        "Evolve-Imagine Dragons",
+        "÷ (Deluxe)-Ed Sheeran",
+        "Dawn FM-The Weeknd"
+      ],
+      "answer": [
+        "The Highlights-The Weeknd",
+        "Un Verano Sin Ti-Bad Bunny",
+        "÷-Ed Sheeran",
+        "Starboy-The Weeknd",
+        "Hollywood's Bleeding-Post Malone"
+      ]
+    },
+    {
+      "id": 33,
+      "text": "Match the movie subtitle with its franchise: 1) 'Dark of the Moon' 2) 'Quantum of Solace' 3) 'The Ballad of Songbirds & Snakes' 4) 'Fallout' 5) 'An Unexpected Journey'",
+      "options": [
+        "Transformers",
+        "007",
+        "The Hunger Games",
+        "Mission: Impossible",
+        "The Hobbit",
+        "Star Wars",
+        "Star Trek",
+        "The Fast and the Furious",
+        "Pirates of the Caribbean",
+        "Harry Potter",
+        "The Lord of the Rings",
+        "Jurassic Park",
+        "Batman",
+        "Superman",
+        "Spider-Man",
+        "X-Men",
+        "Thor",
+        "Iron Man",
+        "Captain America",
+        "Guardians of the Galaxy",
+        "Wonder Woman",
+        "Aquaman",
+        "The Avengers"
+      ],
+      "answer": [
+        "Transformers",
+        "007",
+        "The Hunger Games",
+        "Mission: Impossible",
+        "The Hobbit"
+      ]
+    },
+    {
+      "id": 37,
+      "text": "Match the tweet with the celebrity who said it: 1) 'is meatball an fruit' 2) 'last night i had cereal with milk for the first time. life changing.' 3) 'ok boys, what's your ball size?' 4) 'Thanks guys! I had no idea a pickle was really a cucumber! U guys totally confirmed it!' 5) 'How many ladies ain't scared 2 fart in front of ur man?'",
+      "options": [
+        "Post Malone",
+        "Kylie Jenner",
+        "Nicki Minaj",
+        "Kim Kardashian",
+        "Ashanti",
+        "Elon Musk",
+        "Cardi B",
+        "Chrissy Teigen",
+        "Justin Bieber",
+        "Taylor Swift",
+        "Kanye West",
+        "Drake",
+        "Ariana Grande",
+        "Lady Gaga",
+        "Rihanna",
+        "Beyoncé",
+        "Miley Cyrus",
+        "Katy Perry",
+        "Britney Spears",
+        "Selena Gomez",
+        "Demi Lovato",
+        "Gigi Hadid",
+        "Hailey Bieber"
+      ],
+      "answer": [
+        "Post Malone",
+        "Kylie Jenner",
+        "Nicki Minaj",
+        "Kim Kardashian",
+        "Ashanti"
+      ]
     }
+    
+    
     
     
     
