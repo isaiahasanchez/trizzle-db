@@ -1141,8 +1141,8 @@
       "text": "", 
     
       "imageQuestion": {
-        "questionImage": "images/candyq.png",
-        "answerImage": "images/candya.png"
+        "questionImage": "https://raw.githubusercontent.com/isaiahasanchez/trizzle-db/refs/heads/main/images/candyq.png",
+        "answerImage": "https://raw.githubusercontent.com/isaiahasanchez/trizzle-db/refs/heads/main/images/candya.png"
       },
       
       "options": [
