@@ -1141,8 +1141,8 @@
       "text": "", 
     
       "imageQuestion": {
-        "questionImage": "https://example.com/path/to/candy-bars-blank.jpg",
-        "answerImage": "https://example.com/path/to/candy-bars-labeled.jpg"
+        "questionImage": "images/candyq.png",
+        "answerImage": "images/candya.png"
       },
       
       "options": [
