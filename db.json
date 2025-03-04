@@ -1135,6 +1135,48 @@
         "Kim Kardashian",
         "Ashanti"
       ]
+    },{
+      "id": 34,
+      "categories": ["Visual Questions"],
+      "text": "", 
+    
+      "imageQuestion": {
+        "questionImage": "https://example.com/path/to/candy-bars-blank.jpg",
+        "answerImage": "https://example.com/path/to/candy-bars-labeled.jpg"
+      },
+      
+      "options": [
+        "Snickers",
+        "Milky Way",
+        "Reese's",
+        "Kit Kat",
+        "Butterfinger",
+        "Twix",
+        "Almond Joy",
+        "PayDay",
+        "Take5",
+        "3 Musketeers",
+        "Bueno",
+        "100 Grand",
+        "Heath",
+        "Mr. Goodbar",
+        "Baby Ruth",
+        "Hershey's",
+        "Crunch",
+        "Rolo",
+        "Mars",
+        "Mounds",
+        "Charleston Chew"
+      ],
+      
+      "answer": [
+        "Snickers",
+        "100 Grand",
+        "3 Musketeers",
+        "Bueno",
+        "Take5"
+      ]
     }
+    
   ]
 }
